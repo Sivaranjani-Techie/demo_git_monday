@@ -1,4 +1,4 @@
 void main()
 {
-printf("Welcome to GITAM-CAIA");
+printf("Welcome to GITAM");
 }
